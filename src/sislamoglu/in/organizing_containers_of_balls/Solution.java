@@ -1,6 +1,5 @@
 package sislamoglu.in.organizing_containers_of_balls;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Solution {
